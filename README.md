@@ -22,10 +22,14 @@ Here are some ideas to get you started:
 
 #### Tools
 
-<img src="https://img.shields.io/badge/Git-050505?style=flat-square&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-050505?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-f79c1b?style=flat-square&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-16c4f0?style=flat-square&logo=Docker&logoColor=white"/> 
 
 #### Frameworks
 
 <img src="https://img.shields.io/badge/Spring-17962e?style=flat-square&logo=Spring&logoColor=white"/> 
+
+#### Database
+
+<img src="https://img.shields.io/badge/Oracle-ed1127?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-2f328f?style=flat-square&logo=MySQL&logoColor=white"/> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeenaKim&hide=prs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
