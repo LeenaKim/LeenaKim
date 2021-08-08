@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌟 Hi, I'm mobile banking platform developer!
+🌟  Hi, I'm **mobile banking platform developer**!
 
 ### 👩‍💻 Skills
 
