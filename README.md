@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeenaKim)](https://github.com/anuraghazra/github-readme-stats)
