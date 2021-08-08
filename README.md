@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Oracle-ed1127?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-2f328f?style=flat-square&logo=MySQL&logoColor=white"/> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeenaKim&hide=prs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leena Kim&hide=prs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
