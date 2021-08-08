@@ -1,5 +1,3 @@
-### Stack
-
 <!--
 **LeenaKim/LeenaKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👩‍💻 Skills
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeenaKim)](https://github.com/anuraghazra/github-readme-stats)
+#### Languages
+
+<img src="https://img.shields.io/badge/Java-b3463e?style=flat-square&logo=Java&logoColor=white"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeenaKim&hide=prs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
