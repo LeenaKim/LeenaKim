@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 
 #### Languages
 
-<img src="https://img.shields.io/badge/Java-b3463e?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Javascript-f7e919?style=flat-square&logo=Javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/JSP-f7ad19?style=flat-square&logo=JSP&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-1b2fe3?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-3a12b3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-b3463e?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-f7e919?style=flat-square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/JSP-f7ad19?style=flat-square&logo=JSP&logoColor=white"/> <img src="https://img.shields.io/badge/Python-1b2fe3?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-3a12b3?style=flat-square&logo=R&logoColor=white"/>
+
+#### Tools
+
+<img src="https://img.shields.io/badge/Git-050505?style=flat-square&logo=Git&logoColor=white"/> 
+
+#### Frameworks
+
+<img src="https://img.shields.io/badge/Spring-17962e?style=flat-square&logo=Spring&logoColor=white"/> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeenaKim&hide=prs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
