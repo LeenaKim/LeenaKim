@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 -->
 🌟  Hi, I'm **mobile banking platform developer**!
 <br>
-Here's my programming blog 👉  <img src="https://img.shields.io/badge/Blog-381ee6?endpoint?url=https://leenakim.github.io/&style=flat-square&logoColor=white"/> 
-
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leenakim.github.io/)](https://leenakim.github.io/)
+	
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leena-kim-1bba9915a/)](https://www.linkedin.com/in/leena-kim-1bba9915a/)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmxkvk94@gmail.com)](mailto:tmxkvk94@gmail.com)
+  
 ### 👩‍💻 Skills
 
 #### Languages
