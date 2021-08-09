@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌟  Hi, I'm **mobile banking platform developer**!
-Here's my programming blog 👉  <img src="https://img.shields.io/badge/Blog-050505?endpoint?url=https://leenakim.github.io/&style=flat-square&logoColor=white"/> 
+<br>
+Here's my programming blog 👉  <img src="https://img.shields.io/badge/Blog-381ee6?endpoint?url=https://leenakim.github.io/&style=flat-square&logoColor=white"/> 
 
 ### 👩‍💻 Skills
 
